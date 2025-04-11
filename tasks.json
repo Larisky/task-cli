@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "i love my mum",
+    "status": "done",
+    "createdAt": "2025-04-09T11:30:04.172Z",
+    "updatedAt": "2025-04-11T09:19:35.272Z"
+  },
+  {
+    "id": 2,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2025-04-10T17:47:11.578Z",
+    "updatedAt": "2025-04-10T17:47:11.578Z"
+  }
+]
