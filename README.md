@@ -17,6 +17,6 @@ Tasks are stored in a local JSON file. No database or external libraries require
 
 
 ```bash
-git clone https://github.com/Larisk/task-cli.git
+git clone https://github.com/Larisk/task-cli
 cd task-cli
 npm install
